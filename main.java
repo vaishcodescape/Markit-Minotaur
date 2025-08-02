@@ -1,8 +1,9 @@
 //Markit-Minotour
 
-class Markit-Minotour {
-    public static void main(string[] arg) {
-        System,out.println("Welcome to Markit-Minotour!");
-        
+class main {
+    public static void main(String[] args)  
+    {     
+        String message = "Goldman Sachs is a global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base.";
+        System.out.println(message);
     }
 }
